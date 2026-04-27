@@ -12,7 +12,7 @@
 
 <h2>Environments Used </h2>
 
-- <b>Cloud-Hosted Virtual Lab Environment</b> Linux or Windows machines set up for specific scenarios.
+- <b>Cloud-Hosted Virtual Lab Environment</b> - Linux or Windows machines set up for specific scenarios.
 
 <h2>Tools </h2>
 Wireshark, Nmap, Splunk, Elastic Stack
