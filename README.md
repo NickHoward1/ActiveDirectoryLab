@@ -19,7 +19,7 @@ Wireshark, Nmap, Splunk, Elastic Stack
 
 <h2>Project walk-through:</h2>
 
-<p align="center">
+<p align="left">
 Launch the utility: <br/>
 <a href="https://ibb.co/spvfVPgP"><img src="https://i.ibb.co/V0W1qNLN/Screenshot-2026-04-27-at-10-58-08.png" alt="Screenshot-2026-04-27-at-10-58-08" border="0"></a>
 <br />
