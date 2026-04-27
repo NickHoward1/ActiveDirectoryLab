@@ -6,14 +6,13 @@
 <b>The aim is to demonstrate not just what I’ve done, but how I’ve done it highlighting my thought process, the skills I’ve developed, and the knowledge I’ve built up along the way. Altogether, this serves as evidence of my hands-on experience and my readiness to step into a Junior SOC Analyst role.
 <br />
 
-<h2>Languages and Utilities Used</h2>
+<h2>Languages</h2>
 
-- <b>PowerShell</b> 
-- <b>Oracle Virtual Box</b>
+- <b>Search Processing Language</b> 
 
 <h2>Environments Used </h2>
 
-- <b>Windows 10</b> (21H2)
+- <b>Cloud-hosted virtual lab environment</b> (21H2)
 - <b>Server 2019</b>
 
 <h2>Program walk-through:</h2>
