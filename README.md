@@ -12,10 +12,12 @@
 
 <h2>Environments Used </h2>
 
-- <b>Cloud-hosted virtual lab environment</b> (21H2)
-- <b>Server 2019</b>
+- <b>Cloud-Hosted Virtual Lab Environment</b> Linux or Windows machines set up for specific scenarios.
 
-<h2>Program walk-through:</h2>
+<h2>Tools </h2>
+Wireshark, Nmap, Splunk, Elastic Stack
+
+<h2>Project walk-through:</h2>
 
 <p align="center">
 Launch the utility: <br/>
