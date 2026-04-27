@@ -21,7 +21,7 @@ Wireshark, Nmap, Splunk, Elastic Stack
 
 <p align="center">
 Launch the utility: <br/>
-<img src="https://i.imgur.com/62TgaWL.png(https://ibb.co/spvfVPgP)" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<a href="https://ibb.co/spvfVPgP"><img src="https://i.ibb.co/V0W1qNLN/Screenshot-2026-04-27-at-10-58-08.png" alt="Screenshot-2026-04-27-at-10-58-08" border="0"></a>
 <br />
 
 </p>
