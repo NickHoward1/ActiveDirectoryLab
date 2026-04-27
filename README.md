@@ -20,8 +20,11 @@ Wireshark, Nmap, Splunk, Elastic Stack
 <h2>Project walk-through:</h2>
 
 <p align="left">
-Launch the utility: <br/>
+The below screenshot shows the SOC simulation enviornment. I assigned the alert and read the alert description as to why the alert was triggered. Next, I investiagted further and opened up the SIEM, using splunk to check the logs as well as copy and pasting the link in VM  <br/>
 <a href="https://ibb.co/spvfVPgP"><img src="https://i.ibb.co/V0W1qNLN/Screenshot-2026-04-27-at-10-58-08.png" alt="Screenshot-2026-04-27-at-10-58-08" border="0"></a>
+
+ <a href="https://ibb.co/NdJfZs2J"><img src="https://i.ibb.co/pBMNJxjM/Screenshot-2026-04-27-at-14-27-29.png" alt="Screenshot-2026-04-27-at-14-27-29" border="0"></a>
+ 
 <br />
 
 </p>
