@@ -17,13 +17,16 @@
 <h2>Tools </h2>
 Wireshark, Nmap, Splunk, Elastic Stack
 
-<h2>Project walk-through:</h2>
+<h2>Project walk-through: Potential Phising Attack</h2>
 
 <p align="left">
-The below screenshot shows the SOC simulation enviornment. I assigned the alert and read the alert description as to why the alert was triggered. Next, I investiagted further and opened up the SIEM, using splunk to check the logs as well as copy and pasting the link in VM  <br/>
+The below screenshots shows the SOC simulation enviornment and tools used to triage this alert. I assigned the alert and read the alert description as to why the alert was triggered. Next, I investiagted further and opened up the SIEM, using splunk to check the logs as well as copy and pasting the flagged link into VM IP/URL for analaysis which came back clean. After investigating I could confirm this is a false postive with no escaltion required, I followed up with a report and closed the case. <br/>
+ 
 <a href="https://ibb.co/spvfVPgP"><img src="https://i.ibb.co/V0W1qNLN/Screenshot-2026-04-27-at-10-58-08.png" alt="Screenshot-2026-04-27-at-10-58-08" border="0"></a>
 
  <a href="https://ibb.co/NdJfZs2J"><img src="https://i.ibb.co/pBMNJxjM/Screenshot-2026-04-27-at-14-27-29.png" alt="Screenshot-2026-04-27-at-14-27-29" border="0"></a>
+
+ <a href="https://ibb.co/RTNkC1bg"><img src="https://i.ibb.co/TM1xHZ2w/Screenshot-2026-04-27-at-14-15-53.png" alt="Screenshot-2026-04-27-at-14-15-53" border="0"></a>
  
 <br />
 
