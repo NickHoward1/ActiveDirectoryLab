@@ -27,6 +27,8 @@ The below screenshots shows the SOC simulation enviornment and tools used to tri
  <a href="https://ibb.co/NdJfZs2J"><img src="https://i.ibb.co/pBMNJxjM/Screenshot-2026-04-27-at-14-27-29.png" alt="Screenshot-2026-04-27-at-14-27-29" border="0"></a>
 
  <a href="https://ibb.co/RTNkC1bg"><img src="https://i.ibb.co/TM1xHZ2w/Screenshot-2026-04-27-at-14-15-53.png" alt="Screenshot-2026-04-27-at-14-15-53" border="0"></a>
+
+ <a href="https://ibb.co/RTNkC1bg"><img src="https://i.ibb.co/RTNkC1bg/Screenshot-2026-04-27-at-14-15-53.png" alt="Screenshot-2026-04-27-at-14-15-53" border="0"></a>
  
 <br />
 
