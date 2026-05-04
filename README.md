@@ -6,9 +6,6 @@
 <b><br/>
 <b>The aim is to demonstrate not just what I’ve done, but how I’ve done it highlighting my thought process, the skills I’ve developed, and the knowledge I’ve built up along the way. Altogether, this serves as evidence of my hands-on experience and my readiness to step into a Junior SOC Analyst role.
 
-p {
-  font-weight: normal; /* default */
-}
 <br />
 
 <h2>Languages</h2>
