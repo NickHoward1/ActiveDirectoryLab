@@ -33,8 +33,6 @@ Based on the log analysis and link check, I was able to confirm this was a false
 
  <a href="https://ibb.co/RTNkC1bg"><img src="https://i.ibb.co/TM1xHZ2w/Screenshot-2026-04-27-at-14-15-53.png" alt="Screenshot-2026-04-27-at-14-15-53" border="0"></a>
 
- <a href="https://ibb.co/RTNkC1bg"><img src="https://i.ibb.co/RTNkC1bg/Screenshot-2026-04-27-at-14-15-53.png" alt="Screenshot-2026-04-27-at-14-15-53" border="0"></a> <a href="https://ibb.co/NdJfZs2J"><img src="https://i.ibb.co/NdJfZs2J/Screenshot-2026-04-27-at-14-27-29.png" alt="Screenshot-2026-04-27-at-14-27-29" border="0"></a>
-<a href="https://ibb.co/R47p8CqL"><img src="https://i.ibb.co/QjXF064s/Screenshot-2026-04-27-at-15-10-23.png" alt="Screenshot-2026-04-27-at-15-10-23" border="0"></a>
 
 <br />
 
