@@ -1,8 +1,8 @@
 <h1>SOC Analyst Pathway Portfolio (TryHackMe)</h1>
 
 <h2>Description</h2>
-font-weight: normal; /* default */
-<b>This project showcases the work I’ve completed as part of the SOC Analyst pathway on TryHackMe. It includes a range of screenshots from the labs and challenges I’ve worked through, along with clear explanations of the tools I used and the approaches I took.<br/>
+
+<b>font-weight: normal; This project showcases the work I’ve completed as part of the SOC Analyst pathway on TryHackMe. It includes a range of screenshots from the labs and challenges I’ve worked through, along with clear explanations of the tools I used and the approaches I took.<br/>
 <b><br/>
 <b>The aim is to demonstrate not just what I’ve done, but how I’ve done it highlighting my thought process, the skills I’ve developed, and the knowledge I’ve built up along the way. Altogether, this serves as evidence of my hands-on experience and my readiness to step into a Junior SOC Analyst role.
 <br />
