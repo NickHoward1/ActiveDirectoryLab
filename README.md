@@ -21,7 +21,7 @@ Wireshark, Nmap, Splunk, Elastic Stack
 
 <h2>Wireshark: PCAP's and filters</h2>
 
-
+![image alt](https://github.com/NickHoward1/Nickhoward1/blob/88f2baaae92728ae265ea1f1948a4827ccc15ba4/Screenshot%202026-05-05%20at%2020.47.01.png)
 
 <h2>Project walk-through: Potential Phishing Attack</h2>
 
