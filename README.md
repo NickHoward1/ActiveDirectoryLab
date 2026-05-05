@@ -26,7 +26,7 @@ Wireshark, Nmap, Splunk, Elastic Stack
 <h2>Project walk-through: Potential Phishing Attack</h2>
 
 <p align="left">
-The below screenshots shows the SOC simulation enviornment and tools used to triage this alert. I assigned the alert and read the alert description as to why the alert was triggered. Next, I investiagted further and opened up the SIEM, using splunk to check the logs as well as copy and pasting the flagged link into VM IP/URL for analaysis which came back clean. After investigating I could confirm this is a false postive with no escaltion required, I followed up with a report and closed the case. <br/>
+ <br/>
 The screenshots below show the SOC simulation environment and the tools I used to triage this alert. I started by assigning the alert to myself and reviewing the description to understand why it was triggered.
 
 From there, I investigated further by opening the SIEM and using Splunk to check the relevant logs. I also took the flagged link from the alert and analysed it in a sandbox environment using a VM (IP/URL analysis), which came back clean.
