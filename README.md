@@ -6,7 +6,7 @@
 <b><br/>
 <b>The aim is to demonstrate not just what I’ve done, but how I’ve done it highlighting my thought process, the skills I’ve developed, and the knowledge I’ve built up along the way. Altogether, this serves as evidence of my hands-on experience and my readiness to step into a Junior SOC Analyst role.
 
-<br />
+<br/>
 
 <h2>Languages</h2>
 
@@ -21,9 +21,6 @@ Wireshark, Nmap, Splunk, Elastic Stack
 
 <h2>Wireshark: PCAP's & Filters</h2>
 IP filters
-
-
-<p align="left">
 
  <p>
 <img src= "https://github.com/NickHoward1/ActiveDirectoryLab/blob/f7afa327640c281a09056154470ec06df3c7d032/Screenshot%202026-05-06%20at%2008.19.40.png" width="250" height="250"/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
