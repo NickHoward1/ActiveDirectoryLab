@@ -47,7 +47,7 @@ Based on the log analysis and link check, I was able to confirm this was a false
 <br />
 
 </p>
-
+<p align="left">
 <!--
  ```diff
 - text in red
