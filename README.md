@@ -21,8 +21,7 @@ Wireshark, Nmap, Splunk, Elastic Stack
 
 <h2>Wireshark: PCAP's & Filters</h2>
 
-Filtering by IP allows me to isloate converstion for deeper analaysis of the alert that has been triggered in the SOC. I can then search for anomalies and any unusual behaviour in the pcap. I would be searching for repeated requests with large payloads, unknown external IPs/domains
-and traffic going to servers that is not usual business behaviour. I would also search for encoded and obfuscated data and to see if there are regular intervals which could indicate malware communicating with C2. 
+Filtering by IP allows me to isolate conversations for deeper analysis of an alert triggered in the SOC. I can then examine the PCAP for anomalies and unusual behavior, such as repeated requests with large payloads, communication with unknown external IPs or domains, and traffic to servers that do not align with normal business activity. I would also look for encoded or obfuscated data, as well as regular beaconing intervals that could indicate malware communicating with a C2 server.
 
 IP filters
 
