@@ -22,7 +22,8 @@ Wireshark, Nmap, Splunk, Elastic Stack
 <h2>Wireshark: PCAP's and filters</h2>
 
 <p align="left">
-![image alt]("https://github.com/NickHoward1/ActiveDirectoryLab/blob/f2e1bf63ee4da7b2978ba4d3a949e646a290e7ea/Screenshot%202026-05-06%20at%2007.32.02.png")
+ 
+<img src= "https://github.com/NickHoward1/ActiveDirectoryLab/blob/f2e1bf63ee4da7b2978ba4d3a949e646a290e7ea/Screenshot%202026-05-06%20at%2007.32.02.png" width="200" height="200" /> 
 
 <h2>Project walk-through: Potential Phishing Attack</h2>
 
