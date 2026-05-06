@@ -20,12 +20,18 @@
 Wireshark, Nmap, Splunk, Elastic Stack
 
 <h2>Wireshark: PCAP's & Filters</h2>
+
+Filtering by IP allows me to isloate converstion for deeper analaysis of the alert that has been triggered in the SOC. I can then search for anomalies and any unusual behaviour in the pcap. I would be searching for repeated requests with large payloads, unknown external IPs/domains
+and traffic going to servers that is not usual business behaviour. I would also search for encoded and obfuscated data and to see if there are regular intervals which could indicate malware communicating with C2. 
+
 IP filters
 
  <p>
 <img src= "https://github.com/NickHoward1/ActiveDirectoryLab/blob/f7afa327640c281a09056154470ec06df3c7d032/Screenshot%202026-05-06%20at%2008.19.40.png" width="250" height="250"/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src= "https://github.com/NickHoward1/ActiveDirectoryLab/blob/0f268f6aea0a68cc5b94ba70bbb887ec3c5e7862/Screenshot%202026-05-06%20at%2008.09.46.png" width="250" height="250"/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src= "https://github.com/NickHoward1/ActiveDirectoryLab/blob/94a10d4acdda1c3cfa7a527920a43a3625cd9c2e/Screenshot%202026-05-06%20at%2007.56.44.png" width="250" height="250" /> 
 </p>
+
+
 
 <h2>Project walk-through: Potential Phishing Attack</h2>
 
